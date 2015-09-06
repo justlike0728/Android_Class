@@ -1,0 +1,47 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   SimpleUI/.gitattributes
+#	new file:   SimpleUI/.gitignore
+#	new file:   SimpleUI/.idea/.name
+#	new file:   SimpleUI/.idea/compiler.xml
+#	new file:   SimpleUI/.idea/copyright/profiles_settings.xml
+#	new file:   SimpleUI/.idea/dictionaries/Administrator.xml
+#	new file:   SimpleUI/.idea/encodings.xml
+#	new file:   SimpleUI/.idea/gradle.xml
+#	new file:   SimpleUI/.idea/misc.xml
+#	new file:   SimpleUI/.idea/modules.xml
+#	new file:   SimpleUI/.idea/runConfigurations.xml
+#	new file:   SimpleUI/.idea/vcs.xml
+#	new file:   SimpleUI/SimpleUI.iml
+#	new file:   SimpleUI/app/.gitignore
+#	new file:   SimpleUI/app/app.iml
+#	new file:   SimpleUI/app/build.gradle
+#	new file:   SimpleUI/app/proguard-rules.pro
+#	new file:   SimpleUI/app/src/androidTest/java/com/example/administrator/simpleui/ApplicationTest.java
+#	new file:   SimpleUI/app/src/main/AndroidManifest.xml
+#	new file:   SimpleUI/app/src/main/java/com/example/administrator/simpleui/MainActivity.java
+#	new file:   SimpleUI/app/src/main/res/layout/activity_main.xml
+#	new file:   SimpleUI/app/src/main/res/menu/menu_main.xml
+#	new file:   SimpleUI/app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   SimpleUI/app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   SimpleUI/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   SimpleUI/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   SimpleUI/app/src/main/res/values-w820dp/dimens.xml
+#	new file:   SimpleUI/app/src/main/res/values/dimens.xml
+#	new file:   SimpleUI/app/src/main/res/values/strings.xml
+#	new file:   SimpleUI/app/src/main/res/values/styles.xml
+#	new file:   SimpleUI/build.gradle
+#	new file:   SimpleUI/gradle.properties
+#	new file:   SimpleUI/gradle/wrapper/gradle-wrapper.jar
+#	new file:   SimpleUI/gradle/wrapper/gradle-wrapper.properties
+#	new file:   SimpleUI/gradlew
+#	new file:   SimpleUI/gradlew.bat
+#	new file:   SimpleUI/settings.gradle
+#
+
